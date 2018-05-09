@@ -10,4 +10,4 @@ Resources for time-lapse related projects on the Raspberry Pi
 + [/r/Python Raspberry Pi, Camera Motion detection. Security surveillance for your room.](https://www.reddit.com/r/Python/comments/8hrfyy/raspberry_pi_camera_motion_detection_security/?st=jgxikbke&sh=f1dff011)
 + [Raspberrypi.org - making a GIF](https://projects.raspberrypi.org/en/projects/timelapse-setup/6)
 + [Raspberrypi.org - using a PIR](https://projects.raspberrypi.org/en/projects/parent-detector/3)
-+ [Raspberrypi.org - streaming video](https://projects.raspberrypi.org/en/projects/infrared-bird-box]
++ [Raspberrypi.org - streaming video](https://projects.raspberrypi.org/en/projects/infrared-bird-box)
