@@ -1,7 +1,7 @@
 # rpi-camera-time-lapse
 Resources for time-lapse related projects on the Raspberry Pi
 
-Yup, the repo's name has a misspell. 
+Yup, the repo's name is misspelled. 
 
 
 + Golden Hour project:
