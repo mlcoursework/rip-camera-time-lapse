@@ -13,3 +13,9 @@ Yup, the repo's name is misspelled.
 + [Raspberrypi.org - making a GIF](https://projects.raspberrypi.org/en/projects/timelapse-setup/6)
 + [Raspberrypi.org - using a PIR](https://projects.raspberrypi.org/en/projects/parent-detector/3)
 + [Raspberrypi.org - streaming video](https://projects.raspberrypi.org/en/projects/infrared-bird-box)
+
+
+
+Other:
+
++ [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
