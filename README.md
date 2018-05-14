@@ -18,4 +18,4 @@ Yup, the repo's name is misspelled.
 
 Other:
 
-+ [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
++ **==>** [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
