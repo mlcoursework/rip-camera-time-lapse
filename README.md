@@ -14,7 +14,7 @@ Yup, the repo's name is misspelled.
 + [Raspberrypi.org - using a PIR](https://projects.raspberrypi.org/en/projects/parent-detector/3)
 + [Raspberrypi.org - streaming video](https://projects.raspberrypi.org/en/projects/infrared-bird-box)
 
-
++ [Project + Code for sending an email when PIR senses motion](https://www.electromaker.io/project/view/pir-sensor-camera-room-security-email-alerts)
 
 Other:
 
