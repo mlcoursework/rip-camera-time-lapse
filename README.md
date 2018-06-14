@@ -16,6 +16,8 @@ Yup, the repo's name is misspelled.
 
 + [Project + Code for sending an email when PIR senses motion](https://www.electromaker.io/project/view/pir-sensor-camera-room-security-email-alerts)
 
++ [PI-TIMOLO - Raspberry (Pi) - (Ti)melapse, (Mo)tion, (Lo)wlight](https://github.com/pageauc/pi-timolo/wiki)
+
 Other:
 
 + **==>** [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
