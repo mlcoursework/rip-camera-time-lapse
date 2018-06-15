@@ -18,6 +18,8 @@ Yup, the repo's name is misspelled.
 
 + [PI-TIMOLO - Raspberry (Pi) - (Ti)melapse, (Mo)tion, (Lo)wlight](https://github.com/pageauc/pi-timolo/wiki)
 
++ **!!** [RPi Cam Web Interface](https://elinux.org/RPi-Cam-Web-Interface)
+
 Other:
 
 + **==>** [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
